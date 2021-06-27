@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subhradeepsamanta2002@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/subhr/Desktop/SUBHRADEEP's%20Resume.pdf](file:///C:/Users/subhr/Desktop/SUBHRADEEP's%20Resume.pdf)
+- 📄 Know about my experiences [Subhradeep Resume](https://www.linkedin.com/in/subhradeep-samanta-85236a203/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADPYQj4BuucsEFiZNjiFyXfvJKgrKAGpluA,1635461181006)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
