@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhradeep</h1>
+<h1 align="center">Hi 👋, I'm [Subhradeep](https://subhradeep10.github.io/subhradeep.github.io/)</h1>
 <h3 align="center">An Enthusiastic Coder , MERN Stack Developer , Competitive Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhradeep10&label=Profile%20views&color=0e75b6&style=flat" alt="subhradeep10" /> </p>
