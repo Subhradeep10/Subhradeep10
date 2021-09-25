@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhradeep10" alt="subhradeep10" /></a> </p>
 
-- 🔭 I’m currently **a Computer Science Freshman**
+- 🔭 I’m currently **a Computer Science Sophomore**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
