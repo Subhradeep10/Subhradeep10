@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhradeep10&label=Profile%20views&color=0e75b6&style=flat" alt="subhradeep10" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhradeep10" alt="subhradeep10" /></a> </p>
+![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+
 
 - 🔭 I’m currently **a Computer Science Sophomore**
 
