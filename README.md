@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://subhradeep10.github.io/subhradeep.github.io/](https://subhradeep10.github.io/subhradeep.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Javascript and Tech related**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **subhradeepsamanta2002@gmail.com**
 
