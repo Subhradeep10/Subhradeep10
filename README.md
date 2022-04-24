@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Subhradeep !](https://subhradeep10.github.io/subhradeep.github.io/)
-<h3 align="center">An Enthusiastic Coder , MERN Stack Developer , Competitive Coder</h3>
+<h3 align="center">An Enthusiastic Coder , MERN Stack Developer and App Developer, Competitive Coder</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhradeep10&label=Profile%20views&color=0e75b6&style=flat" alt="subhradeep10" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **a Computer Science Sophomore**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [https://subhradeep10.github.io/subhradeep.github.io/](https://subhradeep10.github.io/subhradeep.github.io/)
 
