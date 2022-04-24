@@ -3,8 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subhradeep10&label=Profile%20views&color=0e75b6&style=flat" alt="subhradeep10" /> </p>
 
+<h2 align = "center">
+  
 ![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
+</h2>
 
 - 🔭 I’m currently **a Computer Science Sophomore**
 
